@@ -1,0 +1,1 @@
+gcc --std=c99 -Wall -Werror -g3 -O0 -o smallsh main.c
